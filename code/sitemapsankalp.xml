@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url>
+  <loc>http://www.sankalp2010.com/</loc>
+  <changefreq>always</changefreq>
+   <priority>1.0</priority>
+</url>
+<url>
+ <loc>http://www.sankalp2010.com/home.php</loc>
+  <changefreq>always</changefreq>
+   <priority>1.0</priority>
+</url>
+<url>
+ <loc>http://www.sankalp2010.com/login.php</loc>
+  <changefreq>always</changefreq>
+   <priority>1.0</priority>
+</url>
+<url>
+ <loc>http://www.sankalp2010.com/location.php</loc>
+  <changefreq>always</changefreq>
+   <priority>1.0</priority>
+</url>
+<url>
+ <loc>http://www.sankalp2010.com/registration.php</loc>
+  <changefreq>always</changefreq>
+   <priority>1.0</priority>
+</url>
+<url>
+ <loc>http://www.sankalp2010.com/sponsors.php</loc>
+  <changefreq>always</changefreq>
+   <priority>1.0</priority>
+</url>
+<url>
+ <loc>http://www.sankalp2010.com/contact.php</loc>
+  <changefreq>always</changefreq>
+   <priority>1.0</priority>
+</url>
+<url>
+ <loc>http://www.sankalp2010.com/developers.php</loc>
+  <changefreq>always</changefreq>
+   <priority>1.0</priority>
+</url>
+
+</urlset>

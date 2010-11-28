@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="ISO-8859-1" ?>
+<rss version="2.0">
+<channel>
+<title>Feeds of Sankalp2010</title>
+<description>All the updates regarding the sankalp2010</description>
+<link>http://www.sankalp2010.com</link>
+<webMaster>sankalptechteam@sankalp2010.com</webMaster>
+		<category>Technical Fest</category>
+		<docs>http://www.rssboard.org/rss-specification</docs>
+		<image>
+			<url>http://www.sankalp2010.com/photos/Logosankalp.jpg</url>
+			<title>Sankalp2010</title>
+			<link>http://www.sankalp2010.com</link>
+			<height>95</height>
+			<width>150</width>
+			<description>A National Level Technical Symposiumpz</description>
+		</image>
+
+<item>
+<title>Sankalp2010 website  to be launched soon...</title>
+<description>Sankalp2010 website to be launch soon ...</description>
+<link>http://www.sankalp2010.com</link>
+<pubDate>2010-09-05 23:46:41</pubDate>
+</item>
+</channel>
+</rss>
